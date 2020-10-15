@@ -1,4 +1,5 @@
 html{box-sizing:border-box;scroll-behavior:smooth}
+*{padding: 0;margin: 0;}
 *,::after,::before{box-sizing:border-box}
 \:active,\:focus{outline:0}
 body{position:relative}
