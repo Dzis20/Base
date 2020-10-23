@@ -69,7 +69,6 @@
         background-color: #fff;
     }
     ul.main-nav {
-        padding-left: 20px;
         display: block;
         position: fixed;
         left: -100%;
@@ -79,6 +78,7 @@
         background-color: #242B33;
         z-index: 2;
         padding-top: 125px;
+        padding-left: 20px;
         transition: 1s;
     }
     ul.main-nav.active {
