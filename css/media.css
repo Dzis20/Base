@@ -21,7 +21,6 @@
     .burger-menu {
         display: block;
         position: relative;
-        top: 15px;
         width: 33px;
         height: 20px;
         z-index: 3;
